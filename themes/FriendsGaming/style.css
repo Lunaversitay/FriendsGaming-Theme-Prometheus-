@@ -17,7 +17,7 @@
 }
 
 .navbar-inverse {
-  background: #fff url(http://friendsgaming.org/global/img/forum/slash-layer.png) repeat-x;
+  background: #e3e3e3;
   border: 0;
   margin: 0; /* Disabed cause we have the border-top on the content */
 }
